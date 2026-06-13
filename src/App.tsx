@@ -251,7 +251,7 @@ function App() {
     <Container>
       <div className="inner-container">
         <div className="title-box">
-          <h1>랜덤 조편성</h1>
+          <h1>🎲 랜덤 조편성</h1>
           <p className="description">
             엑셀 A열 명단을 불러와 원하는 개수의 조로 랜덤 편성합니다.
           </p>
