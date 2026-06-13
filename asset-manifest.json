@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/group_formation/static/js/main.bc955d26.js",
+    "main.js": "/group_formation/static/js/main.da1d63f3.js",
     "index.html": "/group_formation/index.html",
-    "main.bc955d26.js.map": "/group_formation/static/js/main.bc955d26.js.map"
+    "main.da1d63f3.js.map": "/group_formation/static/js/main.da1d63f3.js.map"
   },
   "entrypoints": [
-    "static/js/main.bc955d26.js"
+    "static/js/main.da1d63f3.js"
   ]
 }
